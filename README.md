@@ -1,5 +1,5 @@
 # Financial_assistant
-Financial assistant is used to calculate the expenses, income and budget and map the expenses automatically to budget. This support multiple user support.
+Financial assistant is used to calculate the expenses, income and budget and map the expenses automatically to budget. This support multiple user support.This uses JSP,servlet and Tomcat app server.
 
 
 ### Functionality:
